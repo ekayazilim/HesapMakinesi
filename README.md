@@ -43,6 +43,3 @@ Bu projeyi kendi bilgisayarınıza kurmak için aşağıdaki adımları izleyin:
 
 Katkıda bulunmak isterseniz, lütfen bir "fork" yapın ve ardından bir "pull request" gönderin. Hataları bildirmek için "issue" açabilirsiniz.
 
-## Lisans
-
-Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasını inceleyin.
